@@ -28,7 +28,7 @@
         android:layout_marginBottom="274dp"
         android:text="Faça Login com Google"
         android:textColor="#d81b60"
-        android:textSize="24sp" />
+        android:textSize="25sp" />
 
     <com.google.android.gms.common.SignInButton
         android:id="@+id/google_sing_in"
